@@ -3,7 +3,7 @@
     "config:base"
   ],
   "platform": "github",
-  "autodiscover": false,
+  "autodiscover": true,
   "baseBranches": ["master"],
   "repositories": [
     "javedfaruquee1/Calculator"
