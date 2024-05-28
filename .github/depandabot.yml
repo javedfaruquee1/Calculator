@@ -7,7 +7,7 @@ version: 2
 updates:
   # Configuration for Maven (Java)
   - package-ecosystem: "maven"
-    directory: "" # Adjust the path to where your pom.xml is
+    directory: "/" # Adjust the path to where your pom.xml is
     schedule:
       interval: "weekly"
     open-pull-requests-limit: 5
